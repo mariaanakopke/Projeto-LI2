@@ -1,0 +1,7 @@
+5 5
+b O b O e O c O c O
+e O c O c O b O d O
+b O c O d O c O b O
+c O d O b O d O a O
+a O b O c O d O b O
+
